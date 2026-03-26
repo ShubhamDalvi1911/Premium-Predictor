@@ -171,7 +171,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Shubham Nanasaheb Dalvi** <br>
-*Machine Learning & GenAI Enthusiast
+Machine Learning & GenAI Enthusiast
 
 ---
 
