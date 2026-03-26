@@ -170,7 +170,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Shubham Nanasaheb Dalvi**
+**Shubham Nanasaheb Dalvi** <br>
 *Machine Learning & GenAI Enthusiast
 
 ---
