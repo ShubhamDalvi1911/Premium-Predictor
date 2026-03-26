@@ -170,9 +170,8 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Shubham Dalvi**
-🎓 MSc Computer Science
-💡 Passionate about Machine Learning & Trading Systems
+**Shubham Nanasaheb Dalvi**
+💡 Machine Learning & GenAI Enthusiast
 
 ---
 
